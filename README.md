@@ -31,35 +31,3 @@ And more...
 🚀 Quick Start
 
 This is a single-file application built with Vue 3 (CDN) and Tailwind CSS (CDN). No build steps or npm install required!
-
-Option 1: Run Locally
-
-Download index.html.
-
-Open it in any web browser (Chrome, Firefox, Safari).
-
-Option 2: Host on GitHub Pages (Free)
-
-Fork or clone this repository.
-
-Go to Settings -> Pages.
-
-Set Source to Deploy from a branch and select main (or master).
-
-Your site will be live at https://<your-username>.github.io/FilamentMatch/.
-
-🛠️ Technologies Used
-
-Vue.js 3: Reactive UI and logic.
-
-Tailwind CSS: Modern styling and dark mode.
-
-Chart.js: Rendering the interactive radar comparison charts.
-
-Google Fonts: Inter & JetBrains Mono typography.
-
-📝 Data Sources
-
-Technical data (Tensile Strength, Stiffness, Impact, HDT) is aggregated from official Technical Data Sheets (TDS) provided by manufacturers as of 2025/2026.
-
-Note: This is an unofficial guide. Always refer to specific manufacturer instructions for printing.
